@@ -25,3 +25,32 @@ Unlike traditional assistants, Arise focuses on **memory, personalization, and d
 
 ## 🏗️ Architecture
 
+
+---
+
+## 🧩 Tech Stack
+
+- **Frontend:** Browser APIs (MediaRecorder, Web Speech)
+- **Backend:** FastAPI, WebSockets
+- **AI:** Whisper, Ollama (Llama3/Mistral)
+- **Database:** SQLite
+
+---
+
+## 🚧 Status
+
+Currently building core voice + intelligence loop.
+
+---
+
+## 🤝 Collaboration
+
+- `main` → stable  
+- `dev` → development  
+- `feature/*` → modules  
+
+---
+
+## 🎯 Vision
+
+To build a **Jarvis-like assistant** that is proactive, personalized, and capable of guiding user behavior.
